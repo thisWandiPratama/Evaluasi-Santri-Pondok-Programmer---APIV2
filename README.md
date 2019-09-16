@@ -8,7 +8,7 @@
 - React Navigation 
 - Axios
 - SplashScreen
-- Nama Aplikasi "APDS" (Aplikasi Pelaporan Data Siswa"
+- Nama Aplikasi "APDS" (Aplikasi Pelaporan Data Siswa")
 - [Link API](http://homekomputer.000webhostapp.com/apiv2/siswa/) 
 
 # Cara Pengumpulan Tugas
