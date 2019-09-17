@@ -33,10 +33,10 @@ include 'DBConfig.php';
                 jenis_kelamin       = '$S_jenis_kelamin', 
                 agama               = '$S_agama', 
                 bank                = '$S_bank', 
-                No_Reknig_Bank      = '$S_No_Rekning_Bank', 
+                No_Rekning_Bank      = '$S_No_Rekning_Bank', 
                 Rek_Atas_Nama       = '$S_Rek_Atas_Nama',
                 Layak_PIP           = '$S_Layak_PIP',
-                Alasan_Layak_PIP    = '$S_Alasan_Layak_PIP'  WHERE student_id = $S_ID";
+                Alasan_Layak_PIP    = '$S_Alasan_Layak_PIP'  WHERE id = $S_ID";
  
  
  if(mysqli_query($con,$Sql_Query)){
