@@ -18,4 +18,9 @@
 - Kemudian Push Ke Github Masing-Masing 
 - Kemudian Pull Requests Ke Repository Ana.
 
+# Santri Pondok Programmer
+- [Arifin](https://github.com/arifin26) Status ``Belum Pull Requests``
+- [Rizqan](https://github.com/rirafi23) Status ``Belum Pull Requests``
+- [Ibnu](https://github.com/AIbnuHIbban) Status ``Belum Ada Perintah Evaluasi``
+
 Jazakallahu Khairan.
