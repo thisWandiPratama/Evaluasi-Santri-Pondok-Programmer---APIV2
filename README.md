@@ -19,7 +19,7 @@
 - Kemudian Pull Requests Ke Repository Ana.
 
 # Santri Pondok Programmer
-- [Arifin](https://github.com/arifin26) Status ``Belum Pull Requests``
+- [Arifin](https://github.com/arifin26) Status ``Selesai Pull Requests``
 - [Rizqan](https://github.com/rirafi23) Status ``Belum Pull Requests``
 - [Ibnu](https://github.com/AIbnuHIbban) Status ``Belum Ada Perintah Evaluasi``
 
